@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guelphelectricalpros.ca/sitemap-index.xml
